@@ -1,6 +1,5 @@
 # Backrooms
 后室（Backrooms）
-<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -17,7 +16,7 @@ Level 0: &quot;前厅&quot;
 </ul>
 <a href="#1">描述</a>
 <a href="#2">实体</a>
-<a href="#3">入口和出口</a>
+	<p><a href="#3">入口和出口</a></p>
 	
 	
 <a name="1"><b>描述</b></a>
