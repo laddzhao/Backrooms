@@ -5,6 +5,7 @@
 <head>
 <meta charset="utf-8">
 <title>Level 0: &quot;前厅&quot;</title>
+	  <img width="300" src="https://kzxs.org.cn/images/1.jpg" />  
 </head>
 
 	
