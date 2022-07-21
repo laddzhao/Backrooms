@@ -4,14 +4,13 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Level 0: &quot;前厅&quot;</title>
-	  <img width="300" src="https://kzxs.org.cn/images/1.jpg" />  
+Level 0: &quot;前厅&quot;
 </head>
 
 	
 <body>
 	<p>Level 0是后室的第一层,也是许多人进入的第一个楼层。</p>
-	<img src="1/1.jpg">
+	<img width="300" src="https://kzxs.org.cn/images/1.jpg" />  
 	<ul><li>安全</li>
 		<li>已勘探完全</li>
 		<li>实体数量极少</li>
@@ -21,7 +20,7 @@
 <a href="#3">入口和出口</a>
 	
 	
-	<p><a name="1"><b>描述</b></a></p>
+<a name="1"><b>描述</b></a>
 	<p>
 Level 0是一个看似无限延伸的非线性空间，其外观就像一个零售店仓库。该层的所有房间都有相同的特征，比如发黄的墙纸、潮湿的地毯、电源插座和白色荧光灯管。然而，没有两个房间是完全相同的。</p>
 
