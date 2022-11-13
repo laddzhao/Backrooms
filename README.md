@@ -9,7 +9,7 @@ Level 0: &quot;前厅&quot;
 	
 <body>
 	<p>Level 0是后室的第一层,也是许多人进入的第一个楼层。</p>
-	<img width="300" src="https://kzxs.org.cn/images/1.jpg" />  
+	<img width="300" src="https://xn--btvv65f45f.site/images/1.jpg" />  
 	<ul><li>安全</li>
 		<li>已勘探完全</li>
 		<li>实体数量极少</li>
